@@ -1,36 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24152c2e-f5d4-4228-907c-9e2fbd2a657f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp01-commons.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tedu/sp01/pojo/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tedu/sp01/pojo/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tedu/sp01/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tedu/sp01/service/ItemService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tedu/sp01/service/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tedu/sp01/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tedu/web/util/CookieUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tedu/web/util/JsonResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tedu/web/util/JsonUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tedu/sp01/pojo/Item.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tedu/sp01/pojo/Order.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tedu/sp01/pojo/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tedu/sp01/service/ItemService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tedu/sp01/service/OrderService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tedu/sp01/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tedu/web/util/CookieUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tedu/web/util/JsonResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tedu/web/util/JsonUtil$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tedu/web/util/JsonUtil.class" afterDir="false" />
-    </list>
+    <list default="true" id="24152c2e-f5d4-4228-907c-9e2fbd2a657f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/../sp02-itemservice/target/" />
@@ -75,8 +46,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../sp11-zuul/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+            <state relative-caret-position="120">
+              <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -551,17 +522,26 @@
       <workItem from="1566808988329" duration="791000" />
       <workItem from="1566809799696" duration="222000" />
       <workItem from="1566819091446" duration="871000" />
-      <workItem from="1566866267117" duration="11174000" />
+      <workItem from="1566866267117" duration="12225000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次上传">
+      <created>1566889851182</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1566889851182</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63738000" />
+    <option name="totallyTimeSpent" value="64789000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2822757" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2822757" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -571,7 +551,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3263965" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3263965" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -581,7 +561,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32822758" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3274918" />
       <window_info anchor="bottom" id="Spring" order="13" weight="0.32932165" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -598,6 +578,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次上传" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次上传" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tedu/web/util/JsonUtil.java">
@@ -1038,8 +1022,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../sp11-zuul/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        <state relative-caret-position="120">
+          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
         </state>
       </provider>
     </entry>
